@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1CC16429-0661-4BA6-A37F-834CCFC3C05D}|Default">
+  <MonoDevelop.Ide.ItemProperties.StringCalculator FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringCalculator.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="StringCalculator/Class1.cs" Line="7" Column="1" />
+      <File FileName="StringCalculator.Tests/UnitTest1.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringCalculator" expanded="True">
+            <Node name="StringCalculator" expanded="True" />
+            <Node name="StringCalculator.Tests" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StringCalculator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StringCalculator.Tests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
