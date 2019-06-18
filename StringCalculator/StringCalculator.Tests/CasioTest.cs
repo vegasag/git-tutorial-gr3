@@ -1,18 +1,23 @@
 using NUnit.Framework;
+using StringCalculator;
 
-namespace Tests
+namespace StringCalculatorTests
 {
-    public class Tests
-    {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
+    public class CasioTests
+    { 
         [Test]
-        public void Test1()
+        public void CheckIfEmptyString()
         {
-            Assert.Pass();
+            // Arrange
+            var calc = new Casio();
+
+
+            // Act
+            var result = calc.Add("");
+
+
+            // Assert
+            Assert.AreEqual(0, result);
         }
     }
 }
